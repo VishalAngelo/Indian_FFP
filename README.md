@@ -3,7 +3,6 @@
 # Overview
 Accurate flight fare predictions empower travelers to make well-informed choices on departure schedules, layovers, and airlines, optimizing time management and travel convenience. 
 This revolutionizes travel planning benefiting both individuals and the flight industry, significantly enhancing the travel experience, optimizing both time management and cost-efficiency. 
-This project encompasses the following key steps:
 
 # Components
 Exploratory Data Analysis (EDA)
